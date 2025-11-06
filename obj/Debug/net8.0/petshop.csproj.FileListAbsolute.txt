@@ -1,0 +1,14 @@
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\bin\Debug\net8.0\petshop.exe
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\bin\Debug\net8.0\petshop.deps.json
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\bin\Debug\net8.0\petshop.runtimeconfig.json
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\bin\Debug\net8.0\petshop.dll
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\bin\Debug\net8.0\petshop.pdb
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.AssemblyInfoInputs.cache
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.AssemblyInfo.cs
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.dll
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\refint\petshop.dll
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.pdb
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\petshop.genruntimeconfig.cache
+C:\Users\Simone\Documents\estudos_Evy\dotnet_projetos\petshop\obj\Debug\net8.0\ref\petshop.dll
